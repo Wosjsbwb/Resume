@@ -1,2 +1,2 @@
-# Resume
-Resume for Frontend web Development
+# Amazon Cloning
+ Frontend web Development
